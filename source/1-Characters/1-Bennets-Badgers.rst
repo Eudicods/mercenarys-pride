@@ -8,6 +8,7 @@ Jane Bennet
 .. image:: ../img/Marauder.webp
   :width: 45%
   :alt: Marauder BattleMech
+  :align: center
 
 * Mech: `Marauder C <http://masterunitlist.info/Unit/Details/2032/marauder-c>`_
 * Sarna: `Marauder article <https://www.sarna.net/wiki/Marauder>`_
@@ -21,6 +22,7 @@ Elizabeth Bennet
 .. image:: ../img/Atlas.webp
   :width: 45%
   :alt: Atlas BattleMech
+  :align: center
 
 * Mech: `Atlas C 2 <http://masterunitlist.info/Unit/Details/8431/atlas-c-2>`_
 * Sarna: `Atlas article <https://www.sarna.net/wiki/Atlas>`_
@@ -34,6 +36,7 @@ Mary Bennet
 .. image:: ../img/Catapult.webp
   :width: 45%
   :alt: Catapult BattleMech
+  :align: center
 
 * Mech: `Catapult CPLT-C5A <http://masterunitlist.info/Unit/Details/484/catapult-cplt-c5a>`_
 * Sarna: `Catapult article <https://www.sarna.net/wiki/Catapult>`_
@@ -47,6 +50,7 @@ Catherine Bennet
 .. image:: ../img/GriffinIIC.webp
   :width: 45%
   :alt: Griffin IIC BattleMech
+  :align: center
 
 * Mech: `Griffin IIC 2 <http://masterunitlist.info/Unit/Details/1311/griffin-iic-2>`_
 * Sarna: `Griffin IIC article <https://www.sarna.net/wiki/Griffin_IIC>`_
@@ -60,6 +64,7 @@ Lydia Bennet
 .. image:: ../img/ShadowHawkIIC.webp
   :width: 45%
   :alt: Shadow Hawk IIC BattleMech
+  :align: center
 
 * Mech: `Shadow Hawk IIC 3 <http://masterunitlist.info/Unit/Details/2913/shadow-hawk-iic-3>`_
 * Sarna: `Shadow Hawk IIC article <https://www.sarna.net/wiki/Shadow_Hawk_IIC>`_

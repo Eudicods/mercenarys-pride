@@ -9,6 +9,7 @@ Follow Bennet's Badgers, a struggling family mercenary company, as they defend V
 .. image:: img/PrideAndPrejudiceCover.webp
   :width: 45%
   :alt: Pride and Prejudice Cover
+  :align: center
 
 .. toctree::
    :maxdepth: 2

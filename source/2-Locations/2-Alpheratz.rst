@@ -7,6 +7,7 @@ Alpheratz IV is home to the Alliance Executive Parliament and has the largest mi
 .. image:: ../img/Alpheratz_3151.webp
   :width: 75%
   :alt: Alpheratz map
+  :align: center
 
 * Planet Type: Terrestrial
 * Diameter: 15.098,3 km

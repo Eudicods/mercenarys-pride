@@ -6,6 +6,7 @@ Jordan Wais is a relatively quiet core world of the Raven Alliance.
 .. image:: ../img/Jordan_Wais_3151.webp
   :width: 75%
   :alt: Jordan Wais map
+  :align: center
 
 * Planet Type: Terrestrial
 * Diameter: 11.700,0 km

@@ -6,6 +6,7 @@ Coraines is a wealthy but minor system in the Raven Alliance.
 .. image:: ../img/Coraines_3151.webp
   :width: 75%
   :alt: Coraines map
+  :align: center
 
 * Planet Type: Terrestrial
 * Diameter: 13,500,0 km
