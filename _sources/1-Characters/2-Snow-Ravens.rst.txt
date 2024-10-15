@@ -19,57 +19,57 @@ Star Captain Fitzwilliam Darcy
 
 Star Commander Charles Bingley
 
-.. image:: ../img/Crossbow.webp
+.. image:: ../img/CarrionCrow.webp
   :width: 45%
-  :alt: Crossbow OmniMech
+  :alt: Carrion Crow OmniMech
   :align: center
 
-* Mech: `Crossbow G <http://masterunitlist.info/Unit/Details/8237/crossbow-g>`_
-* Sarna: `Crossbow article <https://www.sarna.net/wiki/Crossbow_(OmniMech)>`_
+* Mech: `Carrion Crow C <https://masterunitlist.info/Unit/Details/7778/carrion-crow-c>`_
+* Sarna: `Carrion Crow article <https://www.sarna.net/wiki/Carrion_Crow>`_
 * Piloting: 4
 * Gunnery: 4
-* BV: 1.898
-* PV: 38
+* BV: 2.009
+* PV: 40
 
 Caroline
 
-.. image:: ../img/Pouncer.webp
+.. image:: ../img/Nova.webp
   :width: 45%
-  :alt: Pouncer OmniMech
+  :alt: Nova OmniMech
   :align: center
 
-* Mech: `Pouncer I <http://masterunitlist.info/Unit/Details/9263/pouncer-i>`_
-* Sarna: `Pouncer article <https://www.sarna.net/wiki/Pouncer>`_
+* Mech: `Nova H <https://masterunitlist.info/Unit/Details/341/black-hawk-nova-h>`_
+* Sarna: `Nova article <https://www.sarna.net/wiki/Nova_(Black_Hawk)>`_
 * Piloting: 5
 * Gunnery: 4
-* BV: 1.781
-* PV: 31
+* BV: 1.832
+* PV: 45
 
 Louisa
+
+.. image:: ../img/Viper.webp
+  :width: 45%
+  :alt: Viper OmniMech
+  :align: center
+
+* Mech: `Viper H <https://masterunitlist.info/Unit/Details/924/dragonfly-viper-h>`_
+* Sarna: `Viper article <https://www.sarna.net/wiki/Viper_(Dragonfly)>`_
+* Piloting: 5
+* Gunnery: 4
+* BV: 1.732
+* PV: 38
+
+Philip
 
 .. image:: ../img/Adder.webp
   :width: 45%
   :alt: Adder OmniMech
   :align: center
 
-* Mech: `Adder I <http://masterunitlist.info/Unit/Details/7479/puma-adder-i>`_
+* Mech: `Adder A <https://masterunitlist.info/Unit/Details/2591/puma-adder-a>`_
 * Sarna: `Adder article <https://www.sarna.net/wiki/Adder_(Puma)>`_
 * Piloting: 5
 * Gunnery: 4
-* BV: 1.575
-* PV: 36
-
-Philip
-
-.. image:: ../img/MistLynx.webp
-  :width: 45%
-  :alt: Mist Lynx OmniMech
-  :align: center
-
-* Mech: `Mist Lynx C <http://masterunitlist.info/Unit/Details/1829/koshi-mist-lynx-c>`_
-* Sarna: `Mist Lynx article <https://www.sarna.net/wiki/Mist_Lynx_(Koshi)>`_
-* Piloting: 5
-* Gunnery: 4
-* BV: 1.320
-* PV: 29
+* BV: 1.437
+* PV: 35
 

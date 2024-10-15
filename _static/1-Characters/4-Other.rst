@@ -1,20 +1,6 @@
 Other Characters
 ------------------------------------
 
-Supervisor George Wickham
-
-.. image:: ../img/BattleMaster.webp
-  :width: 45%
-  :alt: BattleMaster BattleMech
-  :align: center
-
-* Mech: `BattleMaster BLG-1G <http://masterunitlist.info/Unit/Details/283/battlemaster-blr-1g>`_
-* Sarna: `BattleMaster article <https://www.sarna.net/wiki/BattleMaster>`_
-* Piloting: 6
-* Gunnery: 3
-* BV: 1.762
-* PV: 40
-
 Capt Gardner
 
 .. image:: ../img/Merlin.webp
