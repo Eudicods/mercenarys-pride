@@ -10,7 +10,7 @@ Jane Bennet
   :alt: Black Knight BattleMech
   :align: center
 
-* Mech: `Black Knight BL-12-KNT <http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt>`_
+* MUL: `Black Knight BL-12-KNT <http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt>`_
 * Sarna: `Black Knight article <https://www.sarna.net/wiki/Black_Knight>`_
 * Piloting: 4
 * Gunnery: 4
@@ -24,7 +24,7 @@ Elizabeth Bennet
   :alt: Atlas BattleMech
   :align: center
 
-* Mech: `Atlas C 2 <http://masterunitlist.info/Unit/Details/8431/atlas-c-2>`_
+* MUL: `Atlas C 2 <http://masterunitlist.info/Unit/Details/8431/atlas-c-2>`_
 * Sarna: `Atlas article <https://www.sarna.net/wiki/Atlas>`_
 * Piloting: 5
 * Gunnery: 3
@@ -38,7 +38,7 @@ Mary Bennet
   :alt: Conjurer BattleMech
   :align: center
 
-* Mech: `Conjurer <https://masterunitlist.info/Unit/Details/1473/hellhound-conjurer>`_
+* MUL: `Conjurer <https://masterunitlist.info/Unit/Details/1473/hellhound-conjurer>`_
 * Sarna: `Conjurer article <https://www.sarna.net/wiki/Conjurer_(Hellhound)>`_
 * Piloting: 5
 * Gunnery: 4
@@ -52,7 +52,7 @@ Catherine Bennet
   :alt: Shadow Hawk IIC BattleMech
   :align: center
 
-* Mech: `Shadow Hawk IIC <https://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic>`_
+* MUL: `Shadow Hawk IIC <https://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic>`_
 * Sarna: `Shadow Hawk IIC article <https://www.sarna.net/wiki/Shadow_Hawk_IIC>`_
 * Piloting: 5
 * Gunnery: 4
@@ -66,7 +66,7 @@ Lydia Bennet
   :alt: Griffin IIC BattleMech
   :align: center
 
-* Mech: `Griffin IIC <https://masterunitlist.info/Unit/Details/1310/griffin-iic>`_
+* MUL: `Griffin IIC <https://masterunitlist.info/Unit/Details/1310/griffin-iic>`_
 * Sarna: `Griffin IIC article <https://www.sarna.net/wiki/Griffin_IIC>`_
 * Piloting: 5
 * Gunnery: 4

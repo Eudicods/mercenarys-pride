@@ -8,6 +8,7 @@ Jordan Wais is a relatively quiet core world of the Raven Alliance.
   :alt: Jordan Wais map
   :align: center
 
+* Sarna: `Jordan Wais article <https://www.sarna.net/wiki/Jordan_Wais>`_
 * Planet Type: Terrestrial
 * Diameter: 11.700,0 km
 * Position in System: 2 (0,630 AU)
@@ -30,4 +31,3 @@ Jordan Wais is a relatively quiet core world of the Raven Alliance.
     * C: Limited industrial output
     * D: Poor agriculture
 * HPG: None
-* Sarna: `Jordan Wais article <https://www.sarna.net/wiki/Jordan_Wais>`_

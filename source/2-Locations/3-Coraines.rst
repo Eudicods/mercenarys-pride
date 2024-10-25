@@ -8,6 +8,7 @@ Coraines is a wealthy but minor system in the Raven Alliance.
   :alt: Coraines map
   :align: center
 
+* Sarna: `Coraines article <https://www.sarna.net/wiki/Coraines>`_
 * Planet Type: Terrestrial
 * Diameter: 13,500,0 km
 * Position in System: 4 (2,240 AU)
@@ -31,4 +32,3 @@ Coraines is a wealthy but minor system in the Raven Alliance.
     * B: Good industrial output
     * A: Breadbasket
 * HPG: B-rated
-* Sarna: `Coraines article <https://www.sarna.net/wiki/Coraines>`_
