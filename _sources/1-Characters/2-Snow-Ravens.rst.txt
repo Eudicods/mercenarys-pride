@@ -10,7 +10,7 @@ Star Captain Fitzwilliam Darcy
   :alt: War Crow OmniMech
   :align: center
 
-* Mech: `War Crow B <http://masterunitlist.info/Unit/Details/7547/war-crow-b>`_
+* MUL: `War Crow B <http://masterunitlist.info/Unit/Details/7547/war-crow-b>`_
 * Sarna: `War Crow article <https://www.sarna.net/wiki/War_Crow>`_
 * Piloting: 5
 * Gunnery: 3
@@ -24,7 +24,7 @@ Star Commander Charles Bingley
   :alt: Carrion Crow OmniMech
   :align: center
 
-* Mech: `Carrion Crow C <https://masterunitlist.info/Unit/Details/7778/carrion-crow-c>`_
+* MUL: `Carrion Crow C <https://masterunitlist.info/Unit/Details/7778/carrion-crow-c>`_
 * Sarna: `Carrion Crow article <https://www.sarna.net/wiki/Carrion_Crow>`_
 * Piloting: 4
 * Gunnery: 4
@@ -38,7 +38,7 @@ Caroline
   :alt: Nova OmniMech
   :align: center
 
-* Mech: `Nova H <https://masterunitlist.info/Unit/Details/341/black-hawk-nova-h>`_
+* MUL: `Nova H <https://masterunitlist.info/Unit/Details/341/black-hawk-nova-h>`_
 * Sarna: `Nova article <https://www.sarna.net/wiki/Nova_(Black_Hawk)>`_
 * Piloting: 5
 * Gunnery: 4
@@ -52,7 +52,7 @@ Louisa
   :alt: Viper OmniMech
   :align: center
 
-* Mech: `Viper H <https://masterunitlist.info/Unit/Details/924/dragonfly-viper-h>`_
+* MUL: `Viper H <https://masterunitlist.info/Unit/Details/924/dragonfly-viper-h>`_
 * Sarna: `Viper article <https://www.sarna.net/wiki/Viper_(Dragonfly)>`_
 * Piloting: 5
 * Gunnery: 4
@@ -66,7 +66,7 @@ Philip
   :alt: Adder OmniMech
   :align: center
 
-* Mech: `Adder A <https://masterunitlist.info/Unit/Details/2591/puma-adder-a>`_
+* MUL: `Adder A <https://masterunitlist.info/Unit/Details/2591/puma-adder-a>`_
 * Sarna: `Adder article <https://www.sarna.net/wiki/Adder_(Puma)>`_
 * Piloting: 5
 * Gunnery: 4

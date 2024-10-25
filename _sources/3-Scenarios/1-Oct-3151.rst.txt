@@ -1,0 +1,75 @@
+October 3151
+------------------------------------
+
+Netherfield Transfer Orders
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+From: Loremaster Klaus Harper
+
+To: Star Captain Fitzwilliam Darcy
+
+Date: 1 October 3151
+
+You are hereby ordered to assume command of Netherfield Military Park.
+JumpShip assets have been instructed to give your DropShip priority en route to Jordan Wais.
+
+Expeditionary Star Alpha will assess the readiness of the local militia and contracted mercenary forces, known as Bennet's Badgers.
+Star Captain Fitzwilliam Darcy will be responsible for the operation and Star Commander Charles Bingley will be be directly responsible for ground forces.
+
+Watch intelligence indicates Jordan Wais may be subject to increased pirate activity in coming months.
+Alliance Military Corps may be deployed to Jordan Wais if local militia and contracted mercenary forces are inadequate to the deter or repel pirate forces.
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Just got word that the Snow Ravens are transferring a Nova and supporting aerospace forces to Netherfield Military Park.
+Everyone knows that when Ravens arrive, they are working an angle to further some ulterior motives.
+
+Their official mission is assessing the readiness of the planetary militia and our support to their defenses, but that's a rather strange mission for a star of OmniMechs and a some toads.
+
+
+Meryton Raid
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pirate forces have been detected burning from a pirate point towards Jordan Wais.
+Their destination is likely the planetary capital, Meryton.
+Intercept the forces before they reach Meryton and repel them.
+
+Game Setup
+""""""""""""""""""""""""""""""""""""
+
+**Defender**
+
+Star Captain Fitzwilliam Darcy, Star Commander Charles Bingley, Jane Bennet, and Elizabeth Bennet participate in this mission.
+Additional members of Bennet's Badgers and Expeditionary Star Alpha may be selected in pairs to reach the desired scenario size.
+
+**Attacker**
+
+Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
+This force may have at most 1 heavy BattleMech and may contain combat vehicles.
+
+Objectives
+""""""""""""""""""""""""""""""""""""
+
+Track the BV destroyed by each side; the unit to land the final shot gets credit.
+If Star Commander Charles Bingley and Jane Bennet both target a pirate unit before it is destroyed, then the BV for that unit counts for both sides, no matter which force destroys that unit.
+
+Score Lore Points for the following accomplishments
+
+* Snow Raven units destroy more BV than Bennet's Badgers (3 pts)
+* Star Commander Charles Bingley and Jane Bennet both target the same unit (1 pt each)
+* Elizabeth Bennet forces Star Captain Fitzwilliam Darcy to break Zellbrigen (3 pts)
+
+Special Rules
+""""""""""""""""""""""""""""""""""""
+
+Star Captain Fitzwilliam Darcy will strictly adhere to Zellbrigen.
+He will target the highest BV enemy 'Mech within range and continue firing exclusively upon that unit until it is destroyed.
+Star Captain Fitzwilliam Darcy will only break Zellbrigen if Elizabeth Bennet targets the unit he is engaged with.
+
+Star Commander Charles Bingley is the only Snow Raven warrior who will attack units currently targeted by Bennet's Badgers warriors.
+
+The remaining Snow Raven warriors will prefer to shoot the same unit they shot the previous turn, unless another unit that is not engaged with a Bennet's Badgers unit offers better target numbers.
+
+Bennet's Badgers will work together to destroy pirate units.

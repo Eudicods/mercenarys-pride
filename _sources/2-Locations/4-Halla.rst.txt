@@ -8,6 +8,7 @@ Halla is an abandoned world near the Raven Alliance.
   :alt: Halla map
   :align: center
 
+* Sarna: `Halla article <https://www.sarna.net/wiki/Halla>`_
 * Planet Type: Terrestrial
 * Diameter: 12.000,0 km
 * Position in System: 1 (0,120 AU)
@@ -30,4 +31,3 @@ Halla is an abandoned world near the Raven Alliance.
     * X: None
     * X: None
 * HPG: None
-* Sarna: `Halla article <https://www.sarna.net/wiki/Halla>`_

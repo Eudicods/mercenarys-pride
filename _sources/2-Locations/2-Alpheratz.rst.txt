@@ -9,6 +9,7 @@ Alpheratz IV is home to the Alliance Executive Parliament and has the largest mi
   :alt: Alpheratz map
   :align: center
 
+* Sarna: `Alpheratz article <https://www.sarna.net/wiki/Alpheratz>`_
 * Planet Type: Terrestrial
 * Diameter: 15.098,3 km
 * Position in System: 4 (0,280 AU)
@@ -32,4 +33,3 @@ Alpheratz IV is home to the Alliance Executive Parliament and has the largest mi
     * A: High industrial output
     * B Agriculturally abundant world
 * HPG: None
-* Sarna: `Alpheratz article <https://www.sarna.net/wiki/Alpheratz>`_

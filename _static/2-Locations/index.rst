@@ -2,7 +2,12 @@ Locations
 ====================================
 
 .. include:: 0-Intro.rst
-.. include:: 1-Jordan-Wais.rst
-.. include:: 2-Alpheratz.rst
-.. include:: 3-Coraines.rst
-.. include:: 4-Halla.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Locations:
+
+   1-Jordan-Wais.rst
+   2-Alpheratz.rst
+   3-Coraines.rst
+   4-Halla.rst
