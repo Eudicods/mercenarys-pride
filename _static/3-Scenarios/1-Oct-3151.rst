@@ -49,6 +49,13 @@ Additional members of Bennet's Badgers and Expeditionary Star Alpha may be selec
 Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
 This force may have at most 1 heavy BattleMech and may contain combat vehicles.
 
+
+**Map**
+
+Select 1 grasslands map for every 4 units in the scenario, rounded up.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
 Objectives
 """"""""""""""""""""""""""""""""""""
 
