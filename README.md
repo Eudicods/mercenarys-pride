@@ -17,7 +17,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-badge]][cc-by-nc-sa]
 
 Mercenary's Pride is a retelling of Jane Austin's Pride and Prejudice as a series BattleTech scenarios highlighting the major events in the book.
-Commanders play scenarios in multiple formats, such as [BattleTech][battletech-tw] and [Alpha Strike][battletech-as].
+Commanders can play scenarios in multiple formats, such as [BattleTech][battletech-tw] and [Alpha Strike][battletech-as].
 
 ### Building Locally
 
