@@ -1,0 +1,64 @@
+November 3151
+------------------------------------
+
+Netherfield Commander's Log
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The mercenary unit under contract with the local government, Bennet's Badgers, appeared to not be completely inept during the pirate raid last month.
+I have organized a series of trials between Expeditionary Star Alpha and these Badgers to truly measure their abilities.
+
+As the facilities on Jorrdan Wais are limited, we shall hold these trials on empty ground outside of Netherfield.
+The planetary militia has recently relocated to Meryton and their presence is not required at this time.
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Burg Bank has sent a representative to ask if we wanted to accept forgiveness of our debts in exchange for becoming the private security for the bank.
+Absolutely unbelievable proposal, and this Richard Collins is a complete buffoon that doesn't know the first thing about 'Mechs.
+I turned down his offer, naturally, but now we must make a good showing as these so called trials the Snow Ravens are hosting, or we risk loosing the contract with the planetary government.
+
+Supervisor Wickham has a proposal for our contract that may be able to save our unit!
+Unfortunately, his lance has been assigned on a long patrol and he won't be able to attend the trials or share more details of his plan until he returns.
+
+I will find a way to save our unit!
+
+
+Netherfield Trials
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Snow Ravens wish to trial with Bennet's Badgers to determine their combat readiness.
+Conduct a series of 1v1 duels to see which group comes out on top.
+
+Game Setup
+""""""""""""""""""""""""""""""""""""
+
+**Combatants**
+
+List all members of Bennet's Badgers and Expeditionary Star Alpha in order from highest BV to lowest.
+Jane Bennet and Star Commander Charles Bingley may trial up to three times.
+All other pairs of MechWarriors may only trial once.
+Elizabeth Bennet and Star Captain Fitzwillian Darcy trial last, and they only trial if Bennet's Badgers have won at least half of the trials so far.
+
+**Map**
+
+Select 1 grasslands map.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+""""""""""""""""""""""""""""""""""""
+
+Track who wins each trial.
+
+Score Lore Points for the following accomplishments
+
+* Each trial completed (2 pts each)
+* Each 'close' trial, the losing 'Mech has at most 1 more internal section (pip) damaged than the winning 'Mech (2 pts each)
+* Elizabeth Bennet and Star Captain Fitzwilliam Darcy trial (3 pts)
+* Named character dies (-3 pts)
+
+Special Rules
+""""""""""""""""""""""""""""""""""""
+
+Snow Raven characters will avoid physical attacks unless they are attacked first.
