@@ -1,0 +1,68 @@
+December 3151
+------------------------------------
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The planetary militia rotated back to Meryton last month.
+We will be going on patrol with them this month.
+Given the increased pirate activity we saw in October, we should be prepared for further conflict.
+
+In other news, following the trials at Netherfield, the Snow Ravens have suddenly left.
+Jane was training with them extensively, but they gave no notice of their departure and left Jane arriving at Netherfield only to discover nobody there.
+I am getting really tired of dealing with pretentious Snow Ravens.
+
+
+Militia Commander's Log
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We have relocated to Meryton following the recent pirate activity centered there.
+Patrols have been doubled until we can locate the source of the pirate activity or the pirates move on.
+
+Supervisor Wickham is the liaison to the local mercenary lance - Bennet's Badgers.
+I was nervous when he joined the unit, as he washed out of the Snow Ravens warrior caste, but he proven to be better adapted to living among 'freebirths' than I anticipated.
+
+
+Joint Patrol
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The planetary militia and Bennet's Badgers are ambushed by pirates while conducting a joint patrol.
+
+Game Setup
+""""""""""""""""""""""""""""""""""""
+
+**Combatants**
+
+Elizabeth Bennet and Supervisor George Wickham must be included in this scenario.
+Other members of Bennet's Badgers and the Alliance Military Corps planetary militia unit may be included, and each side should have roughly equal BV.
+
+Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
+This force has 1 heavy BattleMech and the rest of the force is combat vehicles.
+The total number of pirate units may be at most double the number of friendly units.
+
+**Map**
+
+Select 1 hilly desert map.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+""""""""""""""""""""""""""""""""""""
+
+Bennet's Badgers and the planetary militia want to drive off the pirates.
+
+Score Lore Points for the following accomplishments
+
+* Each pirate unit destroyed (2 pts each)
+* Each pirate vehicle immobilized (3 pts each)
+* Pirate 'Mech destroyed (5 pts)
+* Elizabeth Bennet gets more kills than Supervisor Wickham (5 pts)
+* Named character dies (-3 pts)
+
+Special Rules
+""""""""""""""""""""""""""""""""""""
+
+Supervisor Wickham will withdraw to behind other friendly units once he has internal damage in at least 3 sections or has taken 2 points of MechWarrior damage.
+
+Pirate forces will withdraw once half of their units have been immobilized or destroyed.
