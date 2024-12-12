@@ -3,7 +3,7 @@ Bennet's Badgers
 
 Bennet's Badgers is a small, struggling mercenary company.
 
-Jane Bennet
+Jane Bennet - Second in command
 
 .. image:: ../img/BlackKnight.webp
   :width: 45%
@@ -17,7 +17,7 @@ Jane Bennet
 * BV: 2.204
 * PV: 40
 
-Elizabeth Bennet
+Elizabeth Bennet - Executive officer
 
 .. image:: ../img/Atlas.webp
   :width: 45%
