@@ -1,7 +1,7 @@
 Alliance Military Corps
 ------------------------------------
 
-Section Leader Forster
+Section Leader Forster - Commanding officer
 
 .. image:: ../img/Orion.webp
   :width: 45%
