@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Mercenary's Pride"
-copyright = '2024, Jeremy L Thompson'
+copyright = '2024-2025, Jeremy L Thompson'
 author = 'Jeremy L Thompson'
 
 
