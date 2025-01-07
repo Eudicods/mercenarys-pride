@@ -1,0 +1,54 @@
+January 3152
+------------------------------------
+
+
+Mountain Wolf Security Officer's Log
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Jane Bennet from Bennet's Badgers is visiting our Alpheratz factory.
+We are conducting a product demonstration for her on our primary testing range in the hopes that a favorable review will encourage the militia on Jordan Wais to purchase more Merlin BattleMechs.
+
+Note, Bennet's Badgers is a struggling mercenary command.
+We should consider offering employment to its members at `Mountain Wolf BattleMechs <https://www.sarna.net/wiki/Mountain_Wolf_BattleMechs>`_ on the security team, as they are highly skilled MechWarriors.
+
+
+Product Testing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Conduct training exercises with powered down lasers and dummy rounds.
+
+
+Game Setup
+""""""""""""""""""""""""""""""""""""
+
+**Combatants**
+
+Jane Bennet and Capt Gardner must be included in this scenario.
+Jane Bennet and Capt Gardner are on opposite teams in this scenario.
+
+Capt Gardner's team includes one `Night Hawk NTK-2Q <https://masterunitlist.info/Unit/Details/2271/night-hawk-ntk-2q>`_.
+Add any number of `Merlin BatttleMechs <http://masterunitlist.info/Unit/Filter?Name=Merlin&HasBV=false&MinTons=&MaxTons=&MinBV=&MaxBV=&MinIntro=&MaxIntro=&MinCost=&MaxCost=&HasBFAbility=&MinPV=&MaxPV=&BookAuto=&FactionAuto=&Factions=39&AvailableEras=257>`_ in pairs, one to each team.
+The second Merlin BattleMech on Capt Gardner's team is piloted by his spouse, Lt Gardner.
+
+**Map**
+
+Select 2 hilly grasslands maps.
+Alpheratz has standard gravity and atmosphere.
+
+Objectives
+""""""""""""""""""""""""""""""""""""
+
+Each team wants to have the last 'Mech standing.
+
+Score Lore Points for the following accomplishments
+
+* Merlin BattleMech assists in a kill (2 pts each)
+* Each weapon system of the Merlin hits an opponent (5 pts)
+* Each weapon system of the Night Hawk hits an opponent (5 pts)
+* Jane Bennet gets more kills than Capt Gardner (5 pts)
+* Jane Bennet's team wins (3 pts)
+
+Special Rules
+""""""""""""""""""""""""""""""""""""
+
+As this is a simulated battle, no MechWarriors will die in this scenario.
