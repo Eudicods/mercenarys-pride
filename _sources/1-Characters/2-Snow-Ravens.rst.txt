@@ -4,6 +4,7 @@ Snow Ravens
 Expeditionary Star Alpha is a Snow Raven star on special assignment.
 
 Star Captain Fitzwilliam Darcy - Commanding officer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/WarCrow.webp
   :width: 45%
@@ -18,6 +19,7 @@ Star Captain Fitzwilliam Darcy - Commanding officer
 * PV: 53
 
 Star Commander Charles Bingley - Second in command
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/CarrionCrow.webp
   :width: 45%
@@ -32,6 +34,7 @@ Star Commander Charles Bingley - Second in command
 * PV: 40
 
 Caroline
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Nova.webp
   :width: 45%
@@ -46,6 +49,7 @@ Caroline
 * PV: 45
 
 Louisa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Viper.webp
   :width: 45%
@@ -60,6 +64,7 @@ Louisa
 * PV: 38
 
 Philip
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Adder.webp
   :width: 45%

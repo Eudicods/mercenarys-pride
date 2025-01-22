@@ -4,6 +4,7 @@ Bennet's Badgers
 Bennet's Badgers is a small, struggling mercenary company.
 
 Jane Bennet - Second in command
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/BlackKnight.webp
   :width: 45%
@@ -18,6 +19,7 @@ Jane Bennet - Second in command
 * PV: 40
 
 Elizabeth Bennet - Executive officer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Atlas.webp
   :width: 45%
@@ -32,6 +34,7 @@ Elizabeth Bennet - Executive officer
 * PV: 57
 
 Mary Bennet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/WolverineIIC.webp
   :width: 45%
@@ -46,6 +49,7 @@ Mary Bennet
 * PV: 35
 
 Catherine Bennet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/ShadowHawkIIC.webp
   :width: 45%
@@ -60,6 +64,7 @@ Catherine Bennet
 * PV: 37
 
 Lydia Bennet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/GriffinIIC.webp
   :width: 45%

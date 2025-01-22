@@ -2,6 +2,7 @@ Alliance Military Corps
 ------------------------------------
 
 Section Leader Forster - Commanding officer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Orion.webp
   :width: 45%
@@ -16,6 +17,7 @@ Section Leader Forster - Commanding officer
 * PV: 43
 
 Supervisor George Wickham
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/PhoenixHawk.webp
   :width: 45%
@@ -30,6 +32,7 @@ Supervisor George Wickham
 * PV: 31
 
 Supervisor Carter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/DarkCrow.webp
   :width: 45%
@@ -44,6 +47,7 @@ Supervisor Carter
 * PV: 35
 
 Guardian Chamberlayne
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Locust.webp
   :width: 45%
@@ -58,6 +62,7 @@ Guardian Chamberlayne
 * PV: 23
 
 Guardian Denny
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Stinger.webp
   :width: 45%
@@ -72,6 +77,7 @@ Guardian Denny
 * PV: 18
 
 Guardian Pratt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Wasp.webp
   :width: 45%
