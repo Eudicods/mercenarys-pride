@@ -2,6 +2,7 @@ Other Characters
 ------------------------------------
 
 Capt Gardner
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Merlin.webp
   :width: 45%
@@ -16,6 +17,7 @@ Capt Gardner
 * PV: 31
 
 Lt Gardner
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../img/Merlin.webp
   :width: 45%
