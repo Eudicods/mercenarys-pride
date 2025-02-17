@@ -1,0 +1,59 @@
+February 3152
+------------------------------------
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+While Jane has been visiting Mountain Wolf BattleMechs on Alpheratz, we've been conducting more joint patrols with the militia.
+Pirates have not attacked since December, which has made our work thankfully dull.
+
+Wickham was a bit of a braggart on our most recent patrol, so we're holding a friendly duel outside of town.
+We will be using only our energy weapons, but in the low power training mode.
+The first person to crit out their opponent wins!
+
+
+Training Duel
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Elizabeth Bennet and Supervisor George Wickham face off in a friendly duel with only their energy weapons in a powered down mode, but Wickham has a trick up his sleeve to help him win.
+
+
+Game Setup
+""""""""""""""""""""""""""""""""""""
+
+**Combatants**
+
+Elizabeth Bennet and Supervisor George Wickham must be included in this scenario.
+There are no other combatants in this scenario.
+
+**Map**
+
+Select 1 hilly desert map.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+""""""""""""""""""""""""""""""""""""
+
+The first character to store three or more critical hits wins.
+
+Score Lore Points for the following accomplishments
+
+* Score a critical hit (2 pts each, up to 3 per character)
+* Supervisor Wickham cheats before scoring a critical hit (5 pts)
+* Supervisor Wickham cheats after scoring at least one critical hit (10 pts)
+* Supervisor Wickham wins (5 pts)
+* Elizabeth Bennet wins (10 pts)
+* Named character dies (-3 pts)
+
+Special Rules
+""""""""""""""""""""""""""""""""""""
+
+Elizabeth Bennet can only use laser weapons.
+For Alpha Strike, subtract 3 from damage in the short and medium range brackets and subtract 2 damage from the long range bracket to represent this loss of firepower.
+
+Supervisor Wickham may cheat and start using his full set of weapons.
+For Alpha Strike, subtract 1 from damage in the short and medium range brackets while he is not cheating.
+
+As this is a battle with powered down laser weapons, no MechWarriors will die in this scenario unless Supervisor Wickham cheats and uses his non-laser weapons and kills Elizabeth Bennet.
