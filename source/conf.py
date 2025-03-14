@@ -48,7 +48,7 @@ import tibas.tt
 import alabaster
 html_theme = 'tt'
 html_theme_path = [tibas.tt.get_path(), alabaster.get_path()]
-html_title = "Pride and Prejudice and BattleMechs"
+html_title = "Mercenary's Pride"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
