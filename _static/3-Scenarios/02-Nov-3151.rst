@@ -1,8 +1,8 @@
 November 3151
-------------------------------------
+-----------------------------------------
 
 Netherfield Commander's Log
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The mercenary unit under contract with the local government, Bennet's Badgers, appeared to not be completely inept during the pirate raid last month.
 I have organized a series of trials between Expeditionary Star Alpha and these Badgers to truly measure their abilities.
@@ -25,13 +25,13 @@ I will find a way to save our unit!
 
 
 Netherfield Trials
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Snow Ravens wish to trial with Bennet's Badgers to determine their combat readiness.
 Conduct a series of 1v1 duels to see which group comes out on top.
 
 Game Setup
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 **Combatants**
 
@@ -47,7 +47,7 @@ Jordan Wais has thin atmosphere and 1,14 g.
 Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
 
 Objectives
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Track who wins each trial.
 
@@ -59,6 +59,6 @@ Score Lore Points for the following accomplishments
 * Named character dies (-3 pts)
 
 Special Rules
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Snow Raven characters will avoid physical attacks unless they are attacked first.

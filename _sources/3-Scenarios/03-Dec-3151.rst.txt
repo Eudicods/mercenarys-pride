@@ -1,5 +1,5 @@
 December 3151
-------------------------------------
+-----------------------------------------
 
 
 Executive Officer's Log, Bennet's Badgers
@@ -15,7 +15,7 @@ I am getting really tired of dealing with pretentious Snow Ravens.
 
 
 Militia Commander's Log
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 We have relocated to Meryton following the recent pirate activity centered there.
 Patrols have been doubled until we can locate the source of the pirate activity or the pirates move on.
@@ -25,12 +25,12 @@ I was nervous when he joined the unit, as he washed out of the Snow Ravens warri
 
 
 Joint Patrol
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The planetary militia and Bennet's Badgers are ambushed by pirates while conducting a joint patrol.
 
 Game Setup
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 **Combatants**
 
@@ -48,7 +48,7 @@ Jordan Wais has thin atmosphere and 1,14 g.
 Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
 
 Objectives
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Bennet's Badgers and the planetary militia want to drive off the pirates.
 
@@ -61,7 +61,7 @@ Score Lore Points for the following accomplishments
 * Named character dies (-3 pts)
 
 Special Rules
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Supervisor Wickham will withdraw to behind other friendly units once he has internal damage in at least 3 sections or has taken 2 points of MechWarrior damage.
 

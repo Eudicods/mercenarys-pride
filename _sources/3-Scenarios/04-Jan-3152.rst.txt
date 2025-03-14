@@ -1,9 +1,9 @@
 January 3152
-------------------------------------
+-----------------------------------------
 
 
 Mountain Wolf Security Officer's Log
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Jane Bennet from Bennet's Badgers is visiting our Alpheratz factory.
 We are conducting a product demonstration for her on our primary testing range in the hopes that a favorable review will encourage the militia on Jordan Wais to purchase more Merlin BattleMechs.
@@ -13,13 +13,13 @@ We should consider offering employment to its members at `Mountain Wolf BattleMe
 
 
 Product Testing
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Conduct training exercises with powered down lasers and dummy rounds.
 
 
 Game Setup
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 **Combatants**
 
@@ -36,7 +36,7 @@ Select 2 hilly grasslands maps.
 Alpheratz has standard gravity and atmosphere.
 
 Objectives
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Each team wants to have the last 'Mech standing.
 
@@ -49,6 +49,6 @@ Score Lore Points for the following accomplishments
 * Jane Bennet's team wins (3 pts)
 
 Special Rules
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 As this is a simulated battle, no MechWarriors will die in this scenario.

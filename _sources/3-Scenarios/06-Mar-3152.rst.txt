@@ -1,9 +1,9 @@
 March 3152
-------------------------------------
+-----------------------------------------
 
 
 Executive Officer's Log, Bennet's Badgers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now that Jane has returned, I'm out visiting Charlotte Lucas, a friend of mine who decided to join the Burg Bank security forces.
 While Collins's proposal to purchase the Badgers in whole for security was absurd, perhaps we can negotiate a contract offering security for the bank after our current contract with the Jordan Wais militia ends.
@@ -14,13 +14,13 @@ Hopefully Charlotte and I can hold the forces while the rest of the bank securit
 
 
 Bank Heist
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Elizabeth Bennet and security forces for the bank must intercept a convoy attempting to steal gold and drive off the pirate forces.
 
 
 Game Setup
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 **Defender**
 
@@ -41,7 +41,7 @@ Coraines has 1,31 g.
 Use the rules from *BattleTech: Tactical Operations Advanced Rules* for high gravity.
 
 Objectives
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 The bank security forces want to stop all gold trucks.
 
@@ -60,6 +60,6 @@ Score Lore Points for the following accomplishments
 * Named character dies (-3 pts)
 
 Special Rules
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 If a bank security forces unit is in the same hex as a gold truck during the End Phase and has not fired any weapons during the turn, they may automatically disable the truck.

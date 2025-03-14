@@ -1,8 +1,8 @@
 October 3151
-------------------------------------
+-----------------------------------------
 
 Netherfield Transfer Orders
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 From: Loremaster Klaus Harper
 
@@ -30,14 +30,14 @@ Their official mission is assessing the readiness of the planetary militia and o
 
 
 Meryton Raid
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Pirate forces have been detected burning from a pirate point towards Jordan Wais.
 Their destination is likely the planetary capital, Meryton.
 Intercept the forces before they reach Meryton and repel them.
 
 Game Setup
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 **Defender**
 
@@ -58,7 +58,7 @@ Jordan Wais has thin atmosphere and 1,14 g.
 Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
 
 Objectives
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Track the BV destroyed by each side; the unit to land the final shot gets credit.
 If Star Commander Charles Bingley and Jane Bennet both target a pirate unit before it is destroyed, then the BV for that unit counts for both sides, no matter which force destroys that unit.
@@ -71,7 +71,7 @@ Score Lore Points for the following accomplishments
 * Named character dies (-3 pts)
 
 Special Rules
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Star Captain Fitzwilliam Darcy will strictly adhere to Zellbrigen.
 He will target the highest BV enemy 'Mech within range and continue firing exclusively upon that unit until it is destroyed.
