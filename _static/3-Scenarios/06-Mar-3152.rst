@@ -1,0 +1,65 @@
+March 3152
+------------------------------------
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now that Jane has returned, I'm out visiting Charlotte Lucas, a friend of mine who decided to join the Burg Bank security forces.
+While Collins's proposal to purchase the Badgers in whole for security was absurd, perhaps we can negotiate a contract offering security for the bank after our current contract with the Jordan Wais militia ends.
+Knowing Darcy, that contract is far less secure than it used to be - the Snow Ravens would love to be rid of mercenaries augmenting their forces.
+
+I am receiving reports of a pirate raid on Burg Bank.
+Hopefully Charlotte and I can hold the forces while the rest of the bank security arrives.
+
+
+Bank Heist
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Elizabeth Bennet and security forces for the bank must intercept a convoy attempting to steal gold and drive off the pirate forces.
+
+
+Game Setup
+""""""""""""""""""""""""""""""""""""
+
+**Defender**
+
+Elizabeth Bennet must be included in this scenario.
+Select any unit from `Mercenaries on the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=34&EraId=257>`_ for Charlotte Lucas.
+Select as many additional units for bank security force reinforcements as desired, up to the total BV (PV) of Elizabeth Bennet and Charlotte Lucas.
+
+**Attacker**
+
+Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
+This force may have at most 1 heavy BattleMech and may contain combat vehicles.
+The pirates have loaded the gold on 3 `Flatbed Truck (Armor) <http://masterunitlist.info/Unit/Details/1129/flatbed-truck-armor>`_.
+
+**Map**
+
+Select 1 urbam map for every 4 units in the scenario, rounded up, with a minimum of 3 maps.
+Coraines has 1,31 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for high gravity.
+
+Objectives
+""""""""""""""""""""""""""""""""""""
+
+The bank security forces want to stop all gold trucks.
+
+The pirate forces start anywhere on the middle map.
+The gold trucks start at the center of the middle map.
+Elizabeth Bennet and Charlotte Lucas start on any edge of the middle map.
+The bank security forces start on any edge of one of the outer maps.
+The pirate forces must escape off the far edge of the opposite map that the bank security forces start on.
+
+Score Lore Points for the following accomplishments
+
+* Gold truck recovered (5 pts each)
+* Pirate unit destroyed (3 pts each)
+* Security unit lost (-2 pts each)
+* Gold truck escapes (-5 pts each)
+* Named character dies (-3 pts)
+
+Special Rules
+""""""""""""""""""""""""""""""""""""
+
+If a bank security forces unit is in the same hex as a gold truck during the End Phase and has not fired any weapons during the turn, they may automatically disable the truck.
