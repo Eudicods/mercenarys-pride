@@ -1,9 +1,9 @@
 February 3152
-------------------------------------
+-----------------------------------------
 
 
 Executive Officer's Log, Bennet's Badgers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 While Jane has been visiting Mountain Wolf BattleMechs on Alpheratz, we've been conducting more joint patrols with the militia.
 Pirates have not attacked since December, which has made our work thankfully dull.
@@ -14,13 +14,13 @@ The first person to crit out their opponent wins!
 
 
 Training Duel
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Elizabeth Bennet and Supervisor George Wickham face off in a friendly duel with only their energy weapons in a powered down mode, but Wickham has a trick up his sleeve to help him win.
 
 
 Game Setup
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 **Combatants**
 
@@ -34,7 +34,7 @@ Jordan Wais has thin atmosphere and 1,14 g.
 Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
 
 Objectives
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 The first character to store three or more critical hits wins.
 
@@ -48,7 +48,7 @@ Score Lore Points for the following accomplishments
 * Named character dies (-3 pts)
 
 Special Rules
-""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""""""""""
 
 Elizabeth Bennet can only use laser weapons.
 For Alpha Strike, subtract 3 from damage in the short and medium range brackets and subtract 2 damage from the long range bracket to represent this loss of firepower.
