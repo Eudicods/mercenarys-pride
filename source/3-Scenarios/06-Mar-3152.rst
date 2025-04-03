@@ -36,7 +36,7 @@ The pirates have loaded the gold on 3 `Flatbed Truck (Armor) <http://masterunitl
 
 **Map**
 
-Select 1 urbam map for every 4 units in the scenario, rounded up, with a minimum of 3 maps.
+Select 1 urban map for every 4 units in the scenario, rounded up, with a minimum of 3 maps.
 Coraines has 1,31 g.
 Use the rules from *BattleTech: Tactical Operations Advanced Rules* for high gravity.
 
