@@ -1,0 +1,51 @@
+May 3152
+-----------------------------------------
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We're all back under one roof, at least for now.
+The militia are deploying a detachment under the command of Supervisor Wickham to the far side of the planet for extended exercises and have invited Lydia to travel with the force.
+Considering Wickham's cheating in our duel, I have strongly recommended against this; however I have been overruled.
+
+I will arrange a training exercise, with Wickham and Lydia working together, to at least judge their readiness for this.
+I cannot stop this, but at least I can prepare Lydia with the best advice I can offer.
+
+
+Training Exercise
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Elizabeth Bennet will judge the readiness of Supervisor George Wickham and Lydia Bennet for this deployment.
+Both sides should try to execute a wide variety of attacks.
+
+
+Game Setup
+"""""""""""""""""""""""""""""""""""""""""
+
+**Combatants**
+
+Elizabeth Bennet, Lydia Bennet, Supervisor George Wickham must be included in this scenario.
+Additional junior Alliance Military Corps members may be added to each side as long as the BV stays even.
+
+**Map**
+
+Select 2 hilly desert maps.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+The first character to store three or more critical hits wins.
+
+Score Lore Points for the following accomplishments
+
+* Score a hit at each range (2 pts per range, up to 3 per character)
+* Make a successful attack into each arc [left, right, front, and rear] (3 pts per arc per attacker)
+* Make a successful physical attack (5 pts per type of attack, up to 3 per character)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+As this is a battle with simulated munitions weapons, no MechWarriors will die in this scenario.
