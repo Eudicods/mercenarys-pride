@@ -1,0 +1,61 @@
+June 3152
+-----------------------------------------
+
+
+Militia Commander's Log
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We have heard reports of renewed pirate activity.
+I have sent Supervisor Wickham and a small detachment to the far side of the planet to investigate.
+SSupervisor Wickham volunteered for this patrol - he may have future leadership potential and should receive further training.
+
+A member of the local mercenary lance, Bennet's Badgers, is accompanying the patrol.
+Bennet's Badgers have proven to be reliable forces in our previous pirate hunting patrols.
+
+
+Pirate Raid
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Supervisor George Wickham and Lydia Bennet are leading a militia patrol when pirates attack.
+Unbeknownst to the Militia, Supervisor Wickham has orchestrated this attack to cover his desertion to join the pirates.
+Supervisor George Wickham intends to let the pirates disable Lydia Bennet's 'Mech and take her with them as he leaves with the pirates.
+
+
+Game Setup
+"""""""""""""""""""""""""""""""""""""""""
+
+**Defender**
+
+Lydia Bennet and Supervisor George Wickham must be included in this scenario.
+Additional junior Alliance Military Corps members may be added to the scenario.
+
+**Attacker**
+
+Select double the BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
+This force has 1 heavy BattleMech and the rest of the force is light 'Mechs and combat vehicles.
+The total number of pirate units may be at most triple the number of friendly units.
+
+**Map**
+
+Select 1 hilly desert maps for every 4 units in the scenario, rounded up.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+The first character to store three or more critical hits wins.
+
+Score Lore Points for the following accomplishments
+
+* Each militia unit destroyed (3 per unit)
+* Cripple Lydia Bennet's 'Mech (3 pts per internal section destroyed)
+* Supervisor Wickham destroys a pirate unit (-3 pts)
+* Named character dies (-3 pts)
+* Scale your Lore Points by the ratio (BV of Lydia Bennet and Supervisor George Wickham) / (BV of total militia force)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+Pirate forces will make a single token attack against Supervisor Wickham each round until all of the junior Alliance Military Corps members are dead.
+Supervisor Wickham will make a single token attack against pirate units and multiple feinting attacks.
