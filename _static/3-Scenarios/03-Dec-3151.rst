@@ -32,10 +32,12 @@ The planetary militia and Bennet's Badgers are ambushed by pirates while conduct
 Game Setup
 """""""""""""""""""""""""""""""""""""""""
 
-**Combatants**
+**Defender**
 
 Elizabeth Bennet and Supervisor George Wickham must be included in this scenario.
 Other members of Bennet's Badgers and the Alliance Military Corps planetary militia unit may be included, and each side should have roughly equal BV.
+
+**Attacker**
 
 Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
 This force has 1 heavy BattleMech and the rest of the force is combat vehicles.
@@ -59,6 +61,7 @@ Score Lore Points for the following accomplishments
 * Pirate 'Mech destroyed (5 pts)
 * Elizabeth Bennet gets more kills than Supervisor Wickham (5 pts)
 * Named character dies (-3 pts)
+* Scale your Lore Points by the ratio (BV of Elizabeth Bennet and Supervisor George Wickham) / (BV of defenders used in the scenario)
 
 Special Rules
 """""""""""""""""""""""""""""""""""""""""

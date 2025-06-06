@@ -44,6 +44,7 @@ Score Lore Points for the following accomplishments
 * Score a hit at each range (2 pts per range, up to 3 per character)
 * Make a successful attack into each arc [left, right, front, and rear] (3 pts per arc per attacker)
 * Make a successful physical attack (5 pts per type of attack, up to 3 per character)
+* Scale your Lore Points by the ratio (BV of Elizabeth Bennet) / (BV of Elizabeth Bennet's team)
 
 Special Rules
 """""""""""""""""""""""""""""""""""""""""

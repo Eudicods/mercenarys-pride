@@ -70,6 +70,7 @@ Score Lore Points for the following accomplishments
 * Star Commander Charles Bingley and Jane Bennet both target the same unit (1 pt each)
 * Elizabeth Bennet forces Star Captain Fitzwilliam Darcy to break Zellbrigen (3 pts)
 * Named character dies (-3 pts)
+* Scale your Lore Points by the ratio (BV of Star Captain Fitzwilliam Darcy, Star Commander Charles Bingley, Jane Bennet, and Elizabeth Bennet) / (BV of defenders used in the scenario)
 
 Special Rules
 """""""""""""""""""""""""""""""""""""""""

@@ -47,6 +47,7 @@ Score Lore Points for the following accomplishments
 * Each weapon system of the Night Hawk hits an opponent (5 pts)
 * Jane Bennet gets more kills than Capt Gardner (5 pts)
 * Jane Bennet's team wins (3 pts)
+* Scale your Lore Points by the ratio (BV of Jane Bennet) / (BV of Jane Bennet's team)
 
 Special Rules
 """""""""""""""""""""""""""""""""""""""""
