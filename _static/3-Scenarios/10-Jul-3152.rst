@@ -1,0 +1,62 @@
+July 3152
+-----------------------------------------
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Luck for Bennet's Badgers is finally turning around.
+My friend, Charlotte Lucas at Burg Bank, invited me to a meeting of various mercenary forces augmenting planetary militia in the Raven Alliance, sponsored by Mountain Wolf BattleMechs.
+This promises to help secure future funding for our continued support of the Jordan Wais militia.
+
+Star Captain Darcy is the Raven Alliance military liaison for the meeting, and I must admit that I am surprised at how civil he is being.
+I have been invited to participate a Snow Raven training exercise simulating urban combat.
+Hopefully a good showing in this exercise will help secure funding.
+
+
+Live Fire
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Star Captain Fitzwilliam Darcy has invited Elizabeth Bennet to participate in a live fire training exercise in a simulated city complex.
+This move is highly unusual and a big honor.
+The defending star must drive off the attacking star to win.
+
+
+Game Setup
+"""""""""""""""""""""""""""""""""""""""""
+
+**Defender**
+
+Elizabeth Bennet and Star Captain Fitzwilliam Darcy must be included in this scenario.
+Up to three additional 'Mechs may be added to the defender's force from the `Raven Alliance from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=39&EraId=257>`_.
+The defenders deploy anywhere on a single city mapsheet.
+
+**Attacker**
+
+Select the same amount BV (PV) of `Raven Alliance from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=39&EraId=257>`_ to match the defender's force.
+This force should consist of the same number of 'Mechs as the defender's force.
+The attackers deploy along any single external edge of any mapsheet.
+
+**Map**
+
+Select 1 city maps for every 4 units in the scenario, rounded up.
+Alpheratz has standard atmosphere and 1,0 g.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+Units must exit the battlefield when under Forced Withdrawal conditions.
+The side that has the last 'Mech on the field wins.
+
+Score Lore Points for the following accomplishments
+
+* Each attacker in Forced Withdrawal (3 per unit)
+* Each defender in Forced Withdrawal (-1 per unit)
+* Defenders win (10 pts)
+* Named character dies (-3 pts)
+* Scale your Lore Points by the ratio (BV of Elizabeth Bennet and Star Captain Fitzwillian darcy) / (BV of total defender force)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+At the end of the second turn, Star Captain Fitzwilliam Darcy receives a message and immediately leaves the battlefield via the most direct route to a board edge.
