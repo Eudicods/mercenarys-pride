@@ -13,7 +13,7 @@ We will be using only our energy weapons, but in the low power training mode.
 The first person to crit out their opponent wins!
 
 
-Training Duel
+Scenario - Training Duel
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Elizabeth Bennet and Supervisor George Wickham face off in a friendly duel with only their energy weapons in a powered down mode, but Wickham has a trick up his sleeve to help him win.

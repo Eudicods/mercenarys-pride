@@ -24,7 +24,7 @@ Unfortunately, his lance has been assigned on a long patrol and he won't be able
 I will find a way to save our unit!
 
 
-Netherfield Trials
+Scenario - Netherfield Trials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Snow Ravens wish to trial with Bennet's Badgers to determine their combat readiness.

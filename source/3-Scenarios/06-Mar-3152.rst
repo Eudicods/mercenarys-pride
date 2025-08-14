@@ -13,7 +13,7 @@ I am receiving reports of a pirate raid on Burg Bank.
 Hopefully Charlotte and I can hold the forces while the rest of the bank security arrives.
 
 
-Bank Heist
+Scenario - Bank Heist
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Elizabeth Bennet and security forces for the bank must intercept a convoy attempting to steal gold and drive off the pirate forces.

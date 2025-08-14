@@ -13,7 +13,7 @@ I will arrange a training exercise, with Wickham and Lydia working together, to 
 I cannot stop this, but at least I can prepare Lydia with the best advice I can offer.
 
 
-Training Exercise
+Scenario - Training Exercise
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Elizabeth Bennet will judge the readiness of Supervisor George Wickham and Lydia Bennet for this deployment.
