@@ -13,7 +13,7 @@ A member of the local mercenary lance, Bennet's Badgers, is accompanying the pat
 Bennet's Badgers have proven to be reliable forces in our previous pirate hunting patrols.
 
 
-Pirate Raid
+Scenario - Pirate Raid
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Supervisor George Wickham and Lydia Bennet are leading a militia patrol when pirates attack.

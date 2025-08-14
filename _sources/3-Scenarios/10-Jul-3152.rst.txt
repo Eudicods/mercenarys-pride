@@ -14,7 +14,7 @@ I have been invited to participate a Snow Raven training exercise simulating urb
 Hopefully a good showing in this exercise will help secure funding.
 
 
-Live Fire
+Scenario - Live Fire
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Star Captain Fitzwilliam Darcy has invited Elizabeth Bennet to participate in a live fire training exercise in a simulated city complex.
@@ -40,7 +40,8 @@ The attackers deploy along any single external edge of any mapsheet.
 **Map**
 
 Select 1 city maps for every 4 units in the scenario, rounded up.
-Alpheratz has standard atmosphere and 1,0 g.
+Coraines has standard atmosphere and 1,31 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for high gravity.
 
 Objectives
 """""""""""""""""""""""""""""""""""""""""

@@ -1,0 +1,58 @@
+August 3152
+-----------------------------------------
+
+
+Netherfield Commander's Log
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I have located Lydia Bennet before the Snow Raven Watch was able to.
+George Wickham deserted the Jordan Wais militia and joined a pirate gang that has been raiding the Raven Alliance in this region.
+It appears that George Wickham had planned this recent raid which resulted in his lancemates all dying.
+
+If I capture George Wickham, he will likely be executed for treason.
+Given the evidence, Lydia Bennet will likely also be executed if another Snow Raven warrior finds her before I can challenge these two in battle.
+
+
+Scenario - Bondsmen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Star Captain Fitzwilliam Darcy has traced George Wickham, Lydia Bennet, and the pirates back to Halla.
+The only way Star Captain Darcy can save Lydia Bennet from Outworlds and Snow Raven laws around pirates is to claim her as bondsman in combat.
+Star Captain Darcy will claim George Wickham as a bondsman if possible, but his survival is not a priority.
+
+
+Game Setup
+"""""""""""""""""""""""""""""""""""""""""
+
+**Attacker**
+
+George Wickham, and Lydia Benett must be included in this scenario.
+George Wickham and Lydia deploy on one side of the mapsheet.
+
+**Attacker**
+
+Star Captain Fitzwilliam Darcy must be included in this scenario.
+Star Captain Darcy deploys on the opposite side of the mapsheet.
+
+**Map**
+
+Select 1 mapsheet with hills and trees.
+Halla has thin atmosphere and 0,9 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for low gravity and thin atmosphere.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+Star Captain Fitzwilliam Darcy wants to disable Lydia Benett's 'Mech and disable or destroy George Wickham's 'Mech.
+
+Score Lore Points for the following accomplishments
+
+* George Wickham's 'Mech disabled (5 pts)
+* George Wickham's 'Mech destroyed (10 pts)
+* Lydia Benett's 'Mech disabled (10 pts)
+* Star Captain Fitzwillian Darcy or Lydia Benett dies (-3 pts each)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+None.
