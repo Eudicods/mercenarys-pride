@@ -1,0 +1,66 @@
+September 3152
+-----------------------------------------
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Capt Gardner somehow managed to get permission from the Raven Alliance for Bennet's Badgers to trial for the right to have our status as a mercenary command with 'known pirate ties' updated.
+I do not know the details, but we have been given a time and place to show up and if we win, then we will be able to renew our contract with the militia.
+
+
+Netherfield Commander's Log
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Today we will trial with Bennet's Badgers.
+I anticipate a favorable outcome, but honor will not be served by me underbidding.
+Also, Snow Raven leadership will not accept the outcome of the trial if Bennet's Badgers have too quick of a win.
+I must disable as many of their 'Mechs as possible during the trial.
+
+
+Scenario - Trial of Refusal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Star Captain Fitzwilliam Darcy and Capt Gardner have secured the chance for Bennet's Badgers to have a Trial of Refusal to reverse the classification of Bennet's Badgers as a mercenary command with 'known pirate ties'.
+A successful trial outcome will result in the restoration of the Bennet's Badgers contract with the Jordan Wais militia for coming years.
+
+
+Game Setup
+"""""""""""""""""""""""""""""""""""""""""
+
+**Attacker**
+
+Star Captain Fitzwilliam Darcy and Star Commander Charles Bingley must participate in this mission.
+Additional members of Expeditionary Star Alpha may be added as long as the total BV (PV) does not exceed that of Bennet's Badgers.
+Lydia Bennet is a bondsman with Expeditionary Star Alpha but may not participate in this scenario.
+Expeditionary Star Alpha deploys on one side of the map.
+
+**Attacker**
+
+Jane Bennet and Elizabeth Bennet must participate in this mission.
+Additional members of Bennet's Badgers may be included; however, this increases the BV (PV) cap for Expeditionary Star Alpha.
+Bennet's Badgers deploy on the opposite side of the map from Expeditionary Star Alpha.
+
+**Map**
+
+Select 1 grasslands map for every 4 units in the scenario, rounded up.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+Bennet's Badgers want to disable all Expeditionary Star Alpha 'Mechs to win the trial.
+
+Score Lore Points for the following accomplishments
+
+* Snow Raven 'Mech disabled (5 pts each)
+* Bennet's Badgers 'Mech disabled (3 pts each)
+* Named character dies (-5 pts each)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+Star Captain Fitzwilliam Darcy will strictly adhere to Zellbrigen until a unit is in Forced Withdrawl, and then he will break the duel and initiate another.
+He will only fight Elizabeth Bennet after all other units have been disabled.
+Star Captain Fitzwilliam Darcy will concede the trial if only he is the last remaining Snow Raven 'Mech and his 'Mech has taken internal or critical damage.
