@@ -1,0 +1,71 @@
+November 3152
+-----------------------------------------
+
+
+Snow Raven Watch Transfer Orders
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+From: Loremaster Klaus Harper
+
+To: Star Colonel Fitzwilliam Darcy
+
+Date: 1 November 3152
+
+You are hereby transferred to the Snow Raven Watch.
+
+Given the increased intensity of pirate raids in the region, the Snow Raven Watch is accelerating plans to explore the Outworlds Wastes to locate and destroy pirate forces.
+
+You will have one Broadsword and jumpship at your disposal, and an R-team has been placed under your command.
+You may requisition or hire additional forces as long as the security of Jordan Wais is not compromised.
+Prepare your expeditionary team for immanent departure orders.
+
+
+Former Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Fitzwilliam has subcontracted Bennet's Badgers, and me specifically for some special mission.
+Its secret enough that he won't tell me the details until we meet in person.
+
+He's prepared a special training mission and is supposed to tell me what's up then.
+
+
+Scenario - R-Team
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The expeditionary team is conducting exercises while a pirate raid develops.
+
+**Defender**
+
+Elizabeth Bennet and Star Colonel Fitzwilliam Darcy must be included in this scenario.
+Lydia Bennet, two points of standard Elementals, and a heavy BattleMech recovery vehicle are also included.
+
+**Attacker**
+
+Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
+This force has 1 heavy BattleMech and the rest of the force is light BattleMechs.
+The total number of pirate units may be at most double the number of friendly units.
+
+**Map**
+
+Select 1 hilly desert map.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+The R-team can practice recovery during live fire.
+The team should disable/destroy and recover the heavy BattleMech by safely escorting the BattleMech recovery vehicle to the location where the heavy BattleMech was disabled.
+
+Score Lore Points for the following accomplishments
+
+* Each pirate unit destroyed (2 pts each)
+* Pirate heavy 'Mech disabled/destroyed (3 pts)
+* Pirate heavy 'Mech recovered (5 pts)
+* Elizabeth Bennet gets more kills than Star Colonel Fitzwilliam Darcy (5 pts)
+* Named character dies (-3 pts)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+Pirate forces will withdraw once half of their units have been immobilized or destroyed.
