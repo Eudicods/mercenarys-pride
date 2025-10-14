@@ -1,0 +1,75 @@
+October 3152
+-----------------------------------------
+
+
+Netherfield Transfer Orders
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+From: Loremaster Klaus Harper
+
+To: Star Captain Charles Bingly
+
+Date: 1 October 3152
+
+You are hereby ordered to assume command of Netherfield Military Park.
+
+Given the increased intensity of pirate raids in the region, Expeditionary Star Alpha is being assigned to augment the local militia and contracted mercenary forces, known as Bennet's Badgers.
+
+Star Colonel Fitzwilliam Darcy has been reassigned.
+Replacement forces will be assigned once available.
+
+Watch intelligence indicates Jordan Wais will likely continue to be subject to increased pirate activity in coming months.
+
+
+Executive Officer's Log, Bennet's Badgers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Elizabeth is preparing for some special job.
+I am excited to run Bennet's Badgers, but I must admit that I will miss my sister.
+
+After the mess of pirate raids where Lydia was captured, the Snow Ravens are bolstering security here with a star.
+Well, most of a star at least.
+We will start combined patrols this month and start combat drills to ensure we can overwhelm future pirate raids.
+
+
+Scenario - Combat Patrol
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The combined planetary forces interdict a pirate raid.
+
+**Defender**
+
+Jane Bennet and Star Captain Charles Bingly must be included in this scenario.
+Other members of Bennet's Badgers, Expeditionary Star Alpha, and the Alliance Military Corps planetary militia unit may be included, and each side should have roughly equal BV.
+Elizabeth Bennet, Lydia Bennet, and Star Colonel Fitzwilliam Darcy may not be included.
+
+**Attacker**
+
+Select an equivalent BV (PV) of `Pirates from the Master Unit List <http://masterunitlist.info/Era/FactionEraDetails?FactionId=38&EraId=257>`_ to match the defender's force.
+This force has 1 heavy BattleMech and the rest of the force is combat vehicles.
+The total number of pirate units may be at most double the number of friendly units.
+
+**Map**
+
+Select 1 hilly desert map.
+Jordan Wais has thin atmosphere and 1,14 g.
+Use the rules from *BattleTech: Tactical Operations Advanced Rules* for these conditions.
+
+Objectives
+"""""""""""""""""""""""""""""""""""""""""
+
+Bennet's Badgers, Expeditionary Star Alpha, and the planetary militia want to drive off the pirates.
+
+Score Lore Points for the following accomplishments
+
+* Each pirate unit destroyed (2 pts each)
+* Each pirate vehicle immobilized (3 pts each)
+* Pirate 'Mech destroyed (5 pts)
+* Jane Bennet gets more kills than Star Captain Charles Bingly (5 pts)
+* Named character dies (-3 pts)
+* Scale your Lore Points by the ratio (BV of Jane Bennet and Star Captain Charles Bingly) / (BV of defenders used in the scenario)
+
+Special Rules
+"""""""""""""""""""""""""""""""""""""""""
+
+Pirate forces will withdraw once half of their units have been immobilized or destroyed.
